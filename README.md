@@ -1,9 +1,2 @@
-
-# Drone AI PX4-Style RL System
-
-## Run
-pip install -r requirements.txt
-python main.py
-
-## Train
-python rl/train.py
+# drone-ai
+PX4-style modular autonomy stack + RL-safe PPO training architecture
